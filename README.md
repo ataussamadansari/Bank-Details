@@ -17,9 +17,9 @@ A simple Android application built using **Kotlin**, **MVVM architecture**, **Fi
 
 ## 📷 Screenshots
 
-| Empty State | Bank Details | Add State | Update Details |
-|-------------|--------------------|-------------|--------------------|
-| ![Empty](screenshots/empty_state.jpg) | ![Details](screenshots/detail_state.jpg) | ![Empty](screenshots/add_state.jpg) | ![Details](screenshots/update_state.jpg) |
+| Empty State | Bank Details | Add State | Update Details | Delete State |
+|-------------|--------------------|-------------|--------------------|--------------------|
+| ![Empty](screenshots/empty_state.jpg) | ![Details](screenshots/detail_state.jpg) | ![Empty](screenshots/add_state.jpg) | ![Details](screenshots/update_state.jpg) | ![Details](screenshots/delete_state.jpg) |
 
 ## 📁 Folder Structure
 ```
