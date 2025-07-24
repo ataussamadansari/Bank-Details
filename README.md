@@ -2,6 +2,9 @@
 
 A simple Android application built using **Kotlin**, **MVVM architecture**, **Firebase Firestore**, and **Firebase Anonymous Authentication** that allows a user to add, update, view, and delete **one bank detail per user**.
 
+## 🔗 APK Link 
+![Bank Details App](apk/bank_details_app.apk)
+
 ## ✨ Features
 
 - 🔐 **Anonymous Login**: Firebase anonymous authentication for unique identification per device.
