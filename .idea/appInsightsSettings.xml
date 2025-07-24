@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.bankdetailsapp" />
-                  <option name="mobileSdkAppId" value="1:1000701024555:android:ff4ad9fad12d87d8584d6e" />
-                  <option name="projectId" value="fir-learn-69127" />
-                  <option name="projectNumber" value="1000701024555" />
+                  <option name="mobileSdkAppId" value="1:671593703462:android:454e2dfd806f0065cbdee7" />
+                  <option name="projectId" value="bankdetails-e697e" />
+                  <option name="projectNumber" value="671593703462" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
